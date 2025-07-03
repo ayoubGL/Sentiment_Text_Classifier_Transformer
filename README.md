@@ -1,4 +1,4 @@
-# End-to-End Machine Learning Project: Sentiment Analysis with Transformers, MLflow & Docker
+# End-to-End Machine Learning Project: Sentiment Analysis with Transformers(PyTorch&HF), MLflow & Docker
 
 This repository showcases a complete, real-world machine learning project for **sentiment analysis** of movie reviews. It demonstrates a full ML pipeline from data preprocessing to model deployment, leveraging industry-standard tools like **PyTorch**, **Hugging Face Transformers**, **MLflow**, and **Docker**.
 
