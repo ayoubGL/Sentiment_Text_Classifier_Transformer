@@ -31,9 +31,6 @@ The goal of this project is to provide a robust, production-ready solution that 
 ### 🌐 REST API for Inference: (to be implemented)
 - A lightweight FastAPI endpoint to serve predictions on new text data. 
 
-### 💻 Web UI: (to be implemented)
-- A simple HTML/JavaScript frontend to interact with the FastAPI for sentiment analysis.
-
 ### 🧼 Clean Code Organization:
 - Structured into modular Python scripts for readability and maintainability.
 
@@ -52,8 +49,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml_sentiment_project.git
-cd ml_sentiment_project
+git clone .
+cd .
 
 
 ml_sentiment_project/
